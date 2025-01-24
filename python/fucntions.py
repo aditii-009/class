@@ -1,3 +1,1 @@
-def print():
-    print("abcs")
-print()
+print("hii")
